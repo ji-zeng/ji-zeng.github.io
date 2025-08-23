@@ -1,3 +1,3 @@
-# ji-zeng.github.io
-# Maybe the next website of Ji Zeng.
-# The current website: jizengmath.wordpress.com
+Maybe the next website of Ji Zeng.
+
+The current website: jizengmath.wordpress.com
